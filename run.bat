@@ -1,0 +1,4 @@
+@echo off
+"C:\Program Files\Java\jdk-16.0.2\bin\java.exe" "-cp C:\Users\Augustas\Desktop\c_Java\Project-Manager\target\classes;C:\Users\Augustas\.m2\repository\org\json\json\20211205\json-20211205.jar;C:\Users\Augustas\.m2\repository\com\github\tomas-langer\chalk\1.0.2\chalk-1.0.2.jar;C:\Users\Augustas\.m2\repository\org\fusesource\hawtjni\hawtjni-runtime\1.11\hawtjni-runtime-1.11.jar;C:\Users\Augustas\.m2\repository\org\fusesource\jansi\jansi-native\1.5\jansi-native-1.5.jar;C:\Users\Augustas\.m2\repository\org\fusesource\jansi\jansi-native\1.5\jansi-native-1.5-windows32.jar;C:\Users\Augustas\.m2\repository\org\fusesource\jansi\jansi-native\1.5\jansi-native-1.5-windows64.jar" me.Ult1.Main %*
+
+@REM 2+ years later, that is pretty funny^
